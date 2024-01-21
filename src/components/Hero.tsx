@@ -3,6 +3,7 @@
 import React from 'react'
 import Slider from "react-slick";
 import { Slide } from './Slide';
+import NewProducts from './NewProducts';
 
 export const Hero = () => {
 
